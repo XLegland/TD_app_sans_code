@@ -18,7 +18,7 @@
 
 12 `vercel env ls`
 
-13 Les secrets sont des vqriqbles d'environnement spécifiques à un compte. Cela permet de séparer les différents rôles des acteurs du projet.
+13 Les secrets sont des variables d'environnement spécifiques à un compte. Cela permet de séparer les différents rôles des acteurs du projet.
 
 15 `vercel secret add url https://td-pi.vercel.app/`
 
