@@ -26,5 +26,5 @@
 
 18 https://github.com/XLegland/TD_app_sans_code
 
-19 Un pull request permet de décrire une branche git pour pouvoir travailler en parallèle de master
+19 Un pull request permet de décrire une branche git pour pouvoir travailler en parallèle de master. Vercel communique avec l'API github pour savoir si des nouvelles PR sont créées. C'est l'environnement de preview qui est trigger.
 
