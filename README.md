@@ -11,3 +11,11 @@
 8 `vercel logs td-jzfrci8hn.vercel.app` td-jzfrci8hn.vercel.app est l'adresse de notre projet
 
 9 `vercel inspect td-jzfrci8hn.vercel.app` elle sert à avoir des informations sur notre projet, comme son id, son nom et les routes 
+
+10 Les variables d'environnement servent à rassembler plusieurs commandes en une seule afin de gagner du temps.
+
+11 `vercel env add plain la`
+
+12 `vercel env ls`
+
+13 Les secrets sont des vqriqbles d'environnement spécifiques à un compte. Cela permet de séparer les différents rôles des acteurs du projet.
