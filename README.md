@@ -19,3 +19,9 @@
 12 `vercel env ls`
 
 13 Les secrets sont des vqriqbles d'environnement spécifiques à un compte. Cela permet de séparer les différents rôles des acteurs du projet.
+
+15 `vercel secret add url https://td-pi.vercel.app/`
+
+16 Les 3 environnements sont Production, Preview et Development. Il permettent de cloisonner et d'organiser plus facilement les projets.
+
+
