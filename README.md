@@ -28,3 +28,5 @@
 
 19 Un pull request permet de décrire une branche git pour pouvoir travailler en parallèle de master. Vercel communique avec l'API github pour savoir si des nouvelles PR sont créées. C'est l'environnement de preview qui est trigger.
 
+![Commentaire de vercel](commentaire_vercel.PNG)
+
