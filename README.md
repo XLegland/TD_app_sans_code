@@ -24,5 +24,7 @@
 
 16 Les 3 environnements sont Production, Preview et Development. Il permettent de cloisonner et d'organiser plus facilement les projets.
 
+18 https://github.com/XLegland/TD_app_sans_code
 
+19 Un pull request permet de décrire une branche git pour pouvoir travailler en parallèle de master
 
