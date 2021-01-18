@@ -30,3 +30,4 @@
 
 ![Commentaire de vercel](commentaire_vercel.PNG)
 
+22 Un système serverless se bqse sur les service de could pour pouvoir payer uniquement ce qui est consommé plutôt que de payer un serveur qui tournerait tout le temps. La mise en place est facilitée notamment par des acteurs comme AWS ou Azure.
