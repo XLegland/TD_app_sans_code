@@ -1,5 +1,7 @@
 # TD_app_sans_code
 
+!! branche principale : master !!
+
 4 On peut connaître la version de vercel en tapant la commande `vercel -v`. La version installée sur ma machine est la 21.1.0.
 
 5 Pour créer un nouveau projet il faut se placer dans le répertoire où sont les fichiers puis entrer la commande `vercel` il y a ensuite plusieurs réponses auxquelles il faut répondre.
