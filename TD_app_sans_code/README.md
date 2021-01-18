@@ -24,5 +24,5 @@
 
 16 Les 3 environnements sont Production, Preview et Development. Il permettent de cloisonner et d'organiser plus facilement les projets.
 
-![Commentaire de vercel](commentaire_vercel.jpg)
+![Commentaire de vercel](commentaire_vercel.PNG)
 
